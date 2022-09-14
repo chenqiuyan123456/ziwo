@@ -1,0 +1,37 @@
+
+body {
+font-family: "微软雅黑";
+font-size: 17px;
+line-height: 25px;
+color:black;
+}
+.table1 {
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+align:center;
+}
+span{
+	font-size:20px;
+}
+a {
+font-size: 17px;
+font-family: "微软雅黑";
+color: #333;
+}
+a:link {
+color: #333;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color: #FFF;
+}
+a:hover {
+text-decoration: none;
+color: #FFF;
+}
+a:active {
+text-decoration: none;
+color: #FFF;
+}
